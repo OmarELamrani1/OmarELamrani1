@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/omarel-amrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omarel-amrani" height="30" width="40" /></a>
 <a href="https://fb.com/omaar.elamranii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omaar.elamranii" height="30" width="40" /></a>
 <a href="https://instagram.com/omar.elamranii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omar.elamranii" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uczykc7rrph_jmivfozbtomw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@omarelamranii" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@omarelamranii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@omarelamranii" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
